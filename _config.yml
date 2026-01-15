@@ -26,12 +26,14 @@ github_username:  ocoec-25
 
 # Build settings
 markdown: kramdown
-theme: Modernist
+#theme: Modernist
+remote_theme: jamigibbs/phantom@latest
+
 plugins:
   - jekyll-feed
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
 
-#remote_theme: jamigibbs/phantom@latest
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
