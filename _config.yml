@@ -27,7 +27,7 @@ github_username:  ocoec-25
 # Build settings
 markdown: kramdown
 #theme: Modernist
-remote_theme: jamigibbs/phantom@latest
+remote_theme: jamigibbs/phantom@master
 
 plugins:
   - jekyll-feed
