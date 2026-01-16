@@ -7,6 +7,6 @@ author_profile: true
 ---
 
 Hi, I’m Echo.  
-I’m an artist and designer interested in human-centered design, craft, and storytelling.
+I’m an artist and designer interested in human-centered design, craft, and storytelling. Test.
 
 This site is a space for my work, projects, and writing.
