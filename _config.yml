@@ -23,12 +23,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ocoec-25.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  ocoec-25
+author:
+  name   : "Echo O'Connor"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Artist & designer exploring human-centered design, craft, and storytelling."
 
 # Build settings
 markdown: kramdown
-#theme: Modernist
-remote_theme: jamigibbs/phantom@main
 
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
