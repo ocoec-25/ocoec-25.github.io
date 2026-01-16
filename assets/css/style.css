@@ -66,3 +66,20 @@ main a:hover {
   margin-top: 2rem;
   font-size: 0.9rem;
 }
+
+/* Keep this minimal — Minima theme styles handle the rest */
+
+.gallery {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 30%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
